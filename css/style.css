@@ -23,6 +23,7 @@ body {
   gap: 25px;
   border: none;
   outline: none;
+  /* outline-color: transparent; */
 }
 
 /* button 1 */
