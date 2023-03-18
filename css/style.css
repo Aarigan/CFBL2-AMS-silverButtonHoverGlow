@@ -75,6 +75,8 @@ body {
   cursor: pointer;
 }
 
+/* .button2:focus,
+.button2:active, */
 .button2:hover {
   color: #eafcfc;
   background: radial-gradient(ellipse farthest-corner at left top, #fff 0%, #e9edef 7%, #cacfcf 25%, #474949 62%, #474949 100%),
@@ -103,6 +105,8 @@ body {
   cursor: pointer;
 }
 
+/* .button3:focus,
+.button3:active, */
 .button3:hover {
   color: #eafcfc;
   background: radial-gradient(ellipse farthest-corner at left top, #fff 0%, #e9edef 7%, #cacfcf 25%, #474949 62%, #474949 100%),
@@ -131,6 +135,8 @@ body {
   cursor: pointer;
 }
 
+/* .button4:focus,
+.button4:active, */
 .button4:hover {
   color: #eafcfc;
   background: radial-gradient(ellipse farthest-corner at left top, #fff 0%, #e9edef 7%, #cacfcf 25%, #474949 62%, #474949 100%),
@@ -161,6 +167,8 @@ body {
   cursor: pointer;
 }
 
+/* .button5:focus,
+.button5:active, */
 .button5:hover {
   color: #eafcfc;
   background: radial-gradient(ellipse farthest-corner at left top, #fff 0%, #e9edef 7%, #cacfcf 25%, #474949 62%, #474949 100%),
