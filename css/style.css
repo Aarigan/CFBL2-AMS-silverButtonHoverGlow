@@ -45,6 +45,8 @@ body {
   cursor: pointer;
 }
 
+/* .button1:focus,
+.button1:active, */
 .button1:hover {
   color: #eafcfc;
   background: radial-gradient(ellipse farthest-corner at left top, #fff 0%, #e9edef 7%, #cacfcf 25%, #474949 62%, #474949 100%),
